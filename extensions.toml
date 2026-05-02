@@ -4407,6 +4407,10 @@ version = "1.0.0"
 submodule = "extensions/vrl"
 version = "0.1.0"
 
+[vscode-2026-theme]
+submodule = "extensions/vscode-2026-theme"
+version = "0.1.0"
+
 [vscode-classic-theme]
 submodule = "extensions/vscode-classic-theme"
 version = "0.0.1"
